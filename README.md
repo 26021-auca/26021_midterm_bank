@@ -35,3 +35,8 @@ This is a small Bank Management system built for the Android platform as part of
 - **Customers Table:** `_id`, `fullName`, `phone`, `email`, `gender`
 - **Accounts Table:** `_id`, `accountNumber`, `balance`, `customerId` (FK)
 - **Transactions Table:** `_id`, `accountId` (FK), `type`, `amount`, `transDate`
+
+## Future Improvements
+- Add user authentication (Login/Register).
+- Implement PDF report generation.
+- Add Search functionality in List views.
