@@ -1,5 +1,5 @@
 # Bank Management Android Application
-**Project Title:** 26021_midterm_bank Student
+**Project Title:** 26021_midterm_bank
 
 ## Overview
 This is a small Bank Management system built for the Android platform as part of a midterm project. The application allows managing customers, bank accounts, and transactions with data persistence using SQLite.
